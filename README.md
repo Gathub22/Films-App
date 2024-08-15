@@ -1,5 +1,6 @@
 # Description
 A basic Flutter app that gathers the data of the most popular recently released films!
+Created as a learning project.
 
 ![Screenshot_20240815-133052](https://github.com/user-attachments/assets/29d5daab-e650-4346-9759-447ce320547d)
 
